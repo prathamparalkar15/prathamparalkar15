@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prathmesh Paralkar
+# 👋 Hi, I'm Prathamesh Paralkar
 
 🚀 Aspiring Web Developer  
 💻 Currently learning Full Stack Development  
